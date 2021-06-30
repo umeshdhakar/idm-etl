@@ -1,0 +1,9 @@
+{
+	"name": "idm-pipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "caf6f648-6449-4f2e-bee7-e230703061e4",
+		"tenantId": "08536e78-8925-47d3-b015-8056c81c230c"
+	}
+}
